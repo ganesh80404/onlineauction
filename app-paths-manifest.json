@@ -1,0 +1,11 @@
+{
+  "/activity/page": "app/activity/page.js",
+  "/auctions/[id]/page": "app/auctions/[id]/page.js",
+  "/auctions/page": "app/auctions/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/help/page": "app/help/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/sell/page": "app/sell/page.js",
+  "/signup/page": "app/signup/page.js"
+}
